@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Nigam</h1>
-<h3 align="center">A passionate Problem Solver and Web Dev Learner .</h3>
+<h3 align="center">A passionate Problem Solver and Web Dev Learner 🙌.</h3>
+<h4 align="center">Since Investment in Knowledge Pays the Highest Interest I Love To Keep Exploring and Learning Throughout 🎯🎯</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavinigam25&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavinigam25" /> </p>
 
