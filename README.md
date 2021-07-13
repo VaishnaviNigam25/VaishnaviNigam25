@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning **Web Development using React and NodeJs**
 
 - 💬 Ask me about **C++ || JAVA || PYTHON || OOPs || Operating System || Data Structures || Algorithms || Graphic Designing**
--  📄 Know about my experiences [https://github.com/VaishnaviNigam25/Resume/blob/main/VaishnaviNigamResume.pdf](https://github.com/VaishnaviNigam25/Resume/blob/main/VaishnaviNigamResume.pdf)
-
 
 - 📫 How to reach me **vaishnavinigam25@gmail.com**
 
